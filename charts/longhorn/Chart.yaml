@@ -23,6 +23,6 @@ version: 0.1.0
 appVersion: "v1.2.2"
 
 dependencies:
-- name: ingress-nginx
+- name: longhorn
   version: 1.2.2
   repository: https://charts.longhorn.io
